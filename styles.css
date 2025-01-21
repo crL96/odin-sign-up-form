@@ -6,3 +6,23 @@
     font-style: normal;
 
 }
+
+body {
+    display: flex;
+
+}
+
+.sidebar {
+    background-image: url("background.jpg");
+    background-size: cover;
+    color: white;
+    height: 100vh;
+}
+
+.textbox {
+    height: 50px;
+}
+
+.formInput {
+    display: flex;
+}
